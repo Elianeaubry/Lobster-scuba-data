@@ -15,9 +15,10 @@ As a rule-of-thumb, if, after a dive, the area remaining on the transect is less
 Divers will not deviate from their strip along the weighted line marking the center of the strip width. At all times the individual diver’s strip width (i.e. 1 m or 2 m) will be respected with divers using their wingspread or a 1 m line to mark out the sample area. For areas where a 1 m strip will be sampled on either side of the weighted line, divers will coordinate so that they are slightly staggered on the line to maintain better visibility (Figure 3). This will allow divers to remain within a safe distance of each other (i.e. buddy system) while having enough area to work in. Divers should scan ahead as they complete their work to avoid sampling lobsters that are attracted by the sampling activity. For example, lobsters that were originally outside of the sample area but approach the diver should not be sampled.  
 
 ### Data configuration
-This a attempt to configurate the data prior to 2019 in a comprehensible manner in order to put foward a consistnt data entry for Scuba data.Data from 2019 have been used to construct the data entry and a template have been provided to coerce the historical data in order  to complete the new database. 
+This an attempt to configure the data prior to 2019 in a comprehensive and consistent manner. Data from 2019 have been used to construct the data entry application and a template has been provided to coerce the historical data in order to complete the new database. 
 
 ## Authors 
-Nathalie Asselin
+Éliane Aubry
+Natalie Asselin
 Tobie Surette
 Denis Gagnon
