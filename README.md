@@ -2,6 +2,18 @@
 ## Background
 Lobster recruitment SCUBA surveys have been conducted at various sites in coastal lobster habitat in the southern Gulf of St. Lawrence (sGSL) since 2000. Sites have been added and removed over the years and the current monitoring plan includes nine sites along the coast, from Pointe-Verte, New Brunswick in the northwest to Toney River, Nova Scotia in the southeast.
 
+### Regions
+
+Pointe-Verte (PV)
+Caraquet (CR)
+Neguac (NG)
+Richibucto (RI)
+Cocagne(CG)
+Shédiac (SC)
+Murray Corner (MC)
+Fox Harbour (FH)
+Toney River(TR)
+
 ## Methods
 ### Survey design
 The SCUBA survey was designed with the objective of assessing the density of lobsters (1-3 years of age) in rocky reefs, within diveable depths (i.e. <10 m of water depth). As such, rocky reefs were identified using ship-based seafloor mapping (i.e. Olex) and local knowledge from biologists and harvesters. Identified areas were then ground-truthed by SCUBA divers and underwater photography. From this initial selection of study sites, a minimum of three 100 m long transects were distributed systematically or randomly within rocky reefs. Over the years, transects have been added and removed due to financial or personnel limitations, changes in research objectives (e.g. specific regions of interest), if SCUBA diving could not be completed at the site safely and efficiently, if the substrate was assessed as poor lobster habitat (e.g. sand) or if the substrate was assessed as too complex for divers to find and capture all lobsters (e.g. too much algae). The transects were largely oriented parallel to tidal currents to facilitate SCUBA diving and improve visibility, which results in transects running generally parallel to the shore. 
